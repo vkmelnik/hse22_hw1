@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	sub1	/home/vkmelnik/hse22_hw1/sub1.fq.trimmed_fastqc.zip
+FastQC	all_sections	sub2	/home/vkmelnik/hse22_hw1/sub2.fq.trimmed_fastqc.zip
+FastQC	all_sections	sub3	/home/vkmelnik/hse22_hw1/sub3.fq.int_trimmed_fastqc.zip
+FastQC	all_sections	sub4	/home/vkmelnik/hse22_hw1/sub4.fq.int_trimmed_fastqc.zip
